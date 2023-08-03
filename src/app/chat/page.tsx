@@ -1,14 +1,12 @@
 import React from 'react'
 import Chat from '@/layout/Chat'
 import ChatNav from '@/layout/ChatNav'
-function Home() {
+function ChatPage() {
   return (
     <div>
-      <div className='w-full flex'>
-        Home
-      </div>
+     Start a conversation
     </div>
   )
 }
 
-export default Home
+export default ChatPage
